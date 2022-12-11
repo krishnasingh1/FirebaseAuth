@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669235894163",
+    "project_id": "fir-auth-d1788",
+    "storage_bucket": "fir-auth-d1788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669235894163:android:534b6f03499c99d36c7a66",
+        "android_client_info": {
+          "package_name": "com.example.kpcoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669235894163-9u7553drfqs99ggovguqnn1tdtu1d4ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLuR7tXABffbqAiaBMUpgOYknrOefNRA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669235894163-9u7553drfqs99ggovguqnn1tdtu1d4ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
